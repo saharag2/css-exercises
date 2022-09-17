@@ -1,0 +1,16 @@
+p {
+    background-color: rgb(202, 131, 142);
+    font-family: "verdana, DejaVu sans, sans-serf";
+}
+#title {
+  color: rgb(32, 32, 193);
+  font-size: 36px; 
+}
+.special {
+    font-size: 24px;
+}
+#hi {
+    background-color: lightgreen;
+    font: 24px;
+    font-weight: 700;
+}

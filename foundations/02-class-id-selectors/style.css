@@ -1,6 +1,6 @@
 p {
     background-color: rgb(202, 131, 142);
-    font-family: "verdana, DejaVu sans, sans-serf";
+    font-family: verdana, "DejaVu sans", sans-serf;
 }
 #title {
   color: rgb(32, 32, 193);
